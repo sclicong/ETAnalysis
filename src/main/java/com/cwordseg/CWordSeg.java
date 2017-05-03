@@ -101,7 +101,7 @@ public class CWordSeg {
 		// }
 		// }
 		// }
-		String sInput = "我不多高兴."; // 手工输入的字符串sInput
+		String sInput = "中国很不高兴."; // 手工输入的字符串sInput
 		System.out.println(sInput.split("/."));
 		InitService initService = new InitService();
 		// String nativeBytes = initService.initAndGetFinally(sInput);
